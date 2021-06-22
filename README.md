@@ -1,6 +1,6 @@
 # 🏍️ MotShow
 
-🚀 A Motorcycle Project. For now, it runs well in Android and Web. iOS coming soon. 
+🚀 A Motorcycle Project. 
 Feel free to upgrade the feature of this app by contributing to this repo. Thank you 😄
 
 ## Getting Started
